@@ -1,2 +1,3 @@
 # hello-word
-第一次使用
+first Time
+  I want to learn some subject,but I do't know what can I do for it.
